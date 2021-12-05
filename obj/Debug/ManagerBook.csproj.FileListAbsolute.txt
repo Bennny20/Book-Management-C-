@@ -1,0 +1,10 @@
+D:\C#\LearnWinform\ManagerBook\bin\Debug\ManagerBook.exe.config
+D:\C#\LearnWinform\ManagerBook\bin\Debug\ManagerBook.exe
+D:\C#\LearnWinform\ManagerBook\bin\Debug\ManagerBook.pdb
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.frmMainTainBook.resources
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.Properties.Resources.resources
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.csproj.GenerateResource.cache
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.csproj.CoreCompileInputs.cache
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.exe
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.pdb
+D:\C#\LearnWinform\ManagerBook\obj\Debug\ManagerBook.csproj.AssemblyReference.cache
